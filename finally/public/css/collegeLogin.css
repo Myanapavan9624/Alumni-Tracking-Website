@@ -1,0 +1,94 @@
+
+
+
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+
+}
+#particles-js{  
+    height:100%;
+    background:rgb(71, 59, 59);
+}
+
+.imgcss{
+    width: 75%; 
+    margin: 15% auto 0%; 
+}
+
+font{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    color: black;
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+}
+
+.padrt {
+    margin: 2px 25px 2px 25px;
+}
+.padrt:hover{
+    color: black;
+    background-color: white;
+    border-radius: 9px;
+}
+
+.pos{
+    position: relative;
+    top: -218%;
+    left: -47%;
+    color: black;
+}
+
+.glyphicon
+{
+    margin-right:4px !important; /*override*/
+}
+
+.pagination .glyphicon
+{
+    margin-right:0px !important; /*override*/
+}
+
+.pagination a
+{
+    color:#555;
+}
+
+.panel ul
+{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+
+.news-item
+{
+    padding:4px 4px;
+    margin:0px;
+    border-bottom:1px dotted #555; 
+}
+
+#replace {
+    border: 1px solid;
+    position: relative;
+    left: -4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    height:100vh;
+
+}
+#particles-js{  
+    height:100%;
+    background:rgb(71, 59, 59);
+}
+
+.imgcss{
+    width: 75%; 
+    margin: 15% auto 0%; 
+}
+
+font{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    color: goldenrod;
+}
